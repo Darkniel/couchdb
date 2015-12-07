@@ -21,7 +21,7 @@ DESTDIR=
 
 # Rebar options
 apps=
-skip_deps=folsom,lager,meck,mochiweb,proper,snappy
+skip_deps=folsom,lager,meck,mochiweb,proper,snappy,eleveldb
 suites=
 tests=
 
